@@ -1,0 +1,84 @@
+body{
+    
+    background-color: coral;
+   
+}
+h1{
+    margin-left: 30px;
+    text-align: center;
+    font-size: 60px;
+}
+#main{
+    margin: 80px auto;
+    height: auto;
+    border: 1.6px solid aqua;
+    background-color:dimgrey;
+    opacity: .90;
+    font-family: cursive;
+    color: lawngreen;
+    width: auto;
+    max-width: 800px;
+    height:auto;
+}
+
+ol {
+  margin-left: 150px;
+    font-size: 38px;
+}
+
+input{
+    margin-left: 10px;
+    font-family: cursive;
+}
+button{
+    margin-top: 20px;
+    font-size: 28px;
+    padding: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    color:maroon;
+    background-color: lightcyan;
+    
+}
+#btn1{
+    margin-bottom: 5px;
+    width: 150px;
+}
+#btn1:hover{
+    background-color: aquamarine;
+    color: black;
+    transition: 0.6s;
+}
+#btn2{
+    width: 150px;
+    
+}
+#btn2:hover{
+    background-color: aquamarine;
+    color: black;
+    transition: 0.6s;
+}
+#btn3{
+    width: 150px;
+}
+#btn3:hover{
+    background-color: aquamarine;
+    color: black;
+    transition: 0.6s;
+}
+#remove_element:hover{
+    background-color: aquamarine;
+    color: black;
+    transition: 0.6s;
+}
+input.col-xs-6{
+    font-size: 30px;
+    color: cadetblue;
+}
+
+#todoList{
+    text-transform: capitalize;
+    color: darkturquoise;
+}
+
+
